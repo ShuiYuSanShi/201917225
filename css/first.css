@@ -1,0 +1,51 @@
+*{
+margin:0;
+padding:0;
+}
+.logo{
+    width: 100%;
+    float: left;
+    background: dodgerblue;
+}
+.head_link{
+	text-align: right;
+	background: dodgerblue
+}
+.nav ul{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+.nav li{
+float:left;
+}
+.nav li a{
+display:block;
+background-color:dodgerblue;
+color:white;
+width:380px;
+height: 30px;
+text-align:center;
+padding:4px 0;
+text-decoration:none;
+}
+.nav li a:hover,a:active{
+background-color:red;
+}
+#main{
+width:1903px;
+height:503px;
+overflow:hidden;
+float: left;
+}
+.pic{
+width:1903px;
+height:503px;
+}
+.main2 ul{
+    list-style: none;
+}
+.main3 ul{
+    list-style: none;
+}
